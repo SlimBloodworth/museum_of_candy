@@ -13,6 +13,7 @@ font-weight: 100;
 
 #mainNavBar .nav-link{
 color: #ffffff;
+text-transform: uppercase;
 }
 
 #mainNavBar .nav-link:hover {
