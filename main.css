@@ -1,3 +1,25 @@
 /* font-family: 'Didact Gothic', sans-serif;
 font-family: 'Nunito Sans', sans-serif;
 font-family: 'Raleway', sans-serif; */
+body {
+    background: #f5d9d5;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#mainNavBar {
+font-size: 1.5rem;
+font-weight: 100;
+}
+
+#mainNavBar .nav-link{
+color: #ffffff;
+}
+
+#mainNavBar .nav-link:hover {
+    color: #ea1c2c;
+}
+
+#mainNavBar .navbar-brand {
+    color: #ea1c2c;
+    font-size: 1.5rem;
+}
