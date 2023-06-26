@@ -21,7 +21,6 @@
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
 
 ### Screenshot
 
@@ -31,23 +30,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Museum Of Candy Bootstrap Project](https://slimbloodworth.github.io/museum_of_candy/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ### What I learned
 
