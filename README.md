@@ -63,7 +63,7 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Michelle Renee](https://michellerenee.dev)
+- Website - [michellerenee.dev](https://michellerenee.dev)
 - GitHub - [@slimbloodworth](https://github.com/SlimBloodworth)
 - CodePen - [@slimbloodworth](https://codepen.io/slimbloodworth)
 - LinkedIn - [Michelle Renee](https://www.linkedin.com/in/michelle-renee-99b455187/)
