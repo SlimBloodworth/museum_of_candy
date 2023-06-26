@@ -2,31 +2,22 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+- A project to update myself with the current bootstrap (bootstrap 5.3 at this time).
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-
+- View the optimal layout for the component depending on their device's screen size.
 
 ### Links
 
@@ -34,9 +25,13 @@ Users should be able to:
 
 ## My process
 
+- This concept was an idea from Colt Steele. My process was to begin wit setting up my workflow, which was to link up the bootstrap CDN and JS links, the to set up the files and file links. I started with the Navbar, from there I gathered images and assets that I wanted to use in this project.
+
 ### Built with
 
 - Semantic HTML5 markup
+- CSS Custom Properties
+- JavaScript
 - Mobile-first workflow
 - [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
@@ -60,27 +55,18 @@ const proudOfThisFunc = () => {
 }
 ```
 
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-
-
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Bootstrap 5.3 Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Unsplash free images](https://unsplash.com/)
+- [Pexels free images](https://www.pexels.com/)
 
 ## Author
 
-- Website - [Michelle Renee](https://slimbloodworth.editorx.io/portfolio)
-- Facebook - [Creative Software Solutions](https://www.facebook.com/profile.php?id=100073842390690)
+- Website - [Michelle Renee](https://michellerenee.dev)
+- GitHub - [@slimbloodworth](https://github.com/SlimBloodworth)
 - CodePen - [@slimbloodworth](https://codepen.io/slimbloodworth)
 - LinkedIn - [Michelle Renee](https://www.linkedin.com/in/michelle-renee-99b455187/)
-- GitHub - [@slimbloodworth](https://github.com/SlimBloodworth)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Facebook - [Creative Software Solutions](https://www.facebook.com/profile.php?id=100073842390690)
+- Twitter - [@michellere57052](https://twitter.com/michellere57052)
+- Instagram - [michellereneedotdev](https://www.instagram.com/michellereneedotdev/)
