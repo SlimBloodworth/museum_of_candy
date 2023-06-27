@@ -3,13 +3,35 @@ body {
     font-family: 'Nunito Sans', sans-serif;
 }
 
+h2 {
+    font-size: 2.5rem;
+}
+
+.caps {
+    text-transform: uppercase;
+    font-weight: 100;    
+}
+.red {
+    color: #ea1c2c;
+}
+
+.pink-text {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+.content-spacing {
+    margin-top: 100px;
+}
+
 #mainNavBar {
 font-size: 1.5rem;
 font-weight: 100;
 
 }
 
-#mainNavBar .nav-link{
+#mainNavBar .nav-link {
 color: #ffffff;
 }
 
@@ -17,22 +39,14 @@ color: #ffffff;
     color: #ea1c2c;
 }
 
-#mainNavBar .navbar-brand {
-    color: #ea1c2c;
+#mainNavBar .navbar-brand {    
     font-size: 1.5rem;
-}
-#headingGroup span {
-    color: #ea1c2c;
 }
 
 #headingGroup h1 {
-    font-weight: 100;
-    font-size: 4rem;
+        font-size: 4rem;
 }
 
-.caps{
-    text-transform: uppercase;    
-}
 
 /*Scale h1 for smaller screens*/
 @media (max-width: 1200px){
