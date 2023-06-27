@@ -1,6 +1,3 @@
-/* font-family: 'Didact Gothic', sans-serif;
-font-family: 'Nunito Sans', sans-serif;
-font-family: 'Raleway', sans-serif; */
 body {
     background: #f5d9d5;
     font-family: 'Nunito Sans', sans-serif;
@@ -9,11 +6,11 @@ body {
 #mainNavBar {
 font-size: 1.5rem;
 font-weight: 100;
+
 }
 
 #mainNavBar .nav-link{
 color: #ffffff;
-text-transform: uppercase;
 }
 
 #mainNavBar .nav-link:hover {
@@ -23,4 +20,24 @@ text-transform: uppercase;
 #mainNavBar .navbar-brand {
     color: #ea1c2c;
     font-size: 1.5rem;
+}
+#headingGroup span {
+    color: #ea1c2c;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.caps{
+    text-transform: uppercase;    
+}
+
+/*Scale h1 for smaller screens*/
+@media (max-width: 1200px){
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
 }
