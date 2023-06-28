@@ -49,6 +49,11 @@ color: #ffffff;
     font-size: 1.5rem;
 }
 
+.navbar.scrolling {
+    background: #dec0de;
+    transition: background 500ms ease-in-out;
+}
+
 #headingGroup h1 {
         font-size: 4rem;
 }
